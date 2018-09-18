@@ -8,11 +8,13 @@ Part One: Understanding Logistic Regression
 4. One vs. Rest: Multiple Categories Classification
 
 Part Two: Programming
-Code Part One! Try on a dataset! 
+
 
 1. Binary Classification
 2. One vs. Rest Classification
 3. log Loss Calculation
+
+Code Part One! Try on a dataset! 
 
 Reference:
 https://ml-cheatsheet.readthedocs.io/en/latest/logistic_regression.html
