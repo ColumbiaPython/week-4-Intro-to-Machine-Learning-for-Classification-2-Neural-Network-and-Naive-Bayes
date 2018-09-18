@@ -13,3 +13,6 @@ Code Part One! Try on a dataset!
 1. Binary Classification
 2. One vs. Rest Classification
 3. log Loss Calculation
+
+Reference:
+https://ml-cheatsheet.readthedocs.io/en/latest/logistic_regression.html
